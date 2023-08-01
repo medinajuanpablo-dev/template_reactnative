@@ -1,0 +1,7 @@
+export default {
+  API: 'API',
+  API_START: 'API_START',
+  API_END: 'API_END',
+  API_ACCESS_DENIED: 'API_ACCESS_DENIED',
+  API_ERROR: 'API_ERROR',
+}
